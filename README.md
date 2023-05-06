@@ -1,3 +1,8 @@
+# sadtitled's firmware depo repo
+[![CMake](https://github.com/sadtitled/GP2040-CE-FF0-00/actions/workflows/cmake.yml/badge.svg)](https://github.com/sadtitled/GP2040-CE-FF0-00/actions/workflows/cmake.yml)
+
+A one stop shop for all your firmware needs for all my sticks. Trying to stay up-to-date with the main repo, just using this page as a way to build and distribute firmware :)
+
 # GP2040-CE | Community Edition Firmware
 
 GP2040-CE is a gamepad firmware for the Raspberry Pi Pico and other boards based on the RP2040 microcontroller, and provides high performance with a rich feature set across multiple platforms. GP2040-CE is compatible with platforms such as PC, Nintendo Switch, PS3/PS4, Steam Deck, MiSTer and Android.
@@ -7,7 +12,7 @@ Full documentation can be found at <https://gp2040-ce.info>.
 ## Features
 
 * Select from 5 input modes: XInput, Nintendo Switch, PS4, PS3 and Keyboard
-* Overclocked polling rate for less than 1 ms of input latency in all modes.
+* Overclocked polling rate for less than 1 ms of input atency in all modes.
 * Multiple SOCD cleaning modes - Up Priority (a.k.a. Stickless), Neutral, and Second Input Priority.
 * Left and Right stick emulation via D-pad inputs as well as dedicated toggle switches.
 * Dual direction via D-pad + LS/RS.
